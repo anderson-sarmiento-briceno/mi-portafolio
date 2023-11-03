@@ -7,6 +7,9 @@ Modelo de regresión lineal capaz de predecir la apertura de una acción del ín
 https://github.com/anderson-sarmiento-briceno/mi-portafolio/blob/main/prediccion_stocks.ipynb
 ## Informacion de Contacto
 - 📫 Como encontrarme **andersarb@gmail.com** 3212121013
+- <p align="left">
+<a href="https://linkedin.com/in/anderson-sarmiento-briceno" target="blank"><img align ="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anderson- sarmiento-briceno" height="30" width="40" /></a>
+<a href="https://kaggle.com/anderson sarmiento" target="blank"><img align="center" src ="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anderson sarmiento" height="30" width=" 40" /></a>
 
  
 
