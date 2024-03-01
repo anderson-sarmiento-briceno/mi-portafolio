@@ -1,6 +1,10 @@
 # Mi Portafolio
 Este es mi portafolio hecho en Python con proyectos de Machine Learning y ciencia de datos
 - 💬 pregúntame por **Phyton,PowerBI,SQL,Machine Learning**
+## Predictor de Apuestas deportivas
+- Modelo clasificador capaz de predecir cantidades de tiros de esquina, goles y tarjetas amarillas del minuto 75 a final de un partido de fútbol de las principales ligas de Europa. Este modelo se basará en datos históricos de más de 5000 partidos para aprender patrones y características que indiquen la probabilidad de que se produzca cierta cantidad de tiros esquina en un momento dado del juego.
+## Ver proyecto
+https://github.com/anderson-sarmiento-briceno/mi-portafolio/blob/main/Predictor_Modelo_ML_V1.ipynb
 ## Predictor de tendencias del mercado FOREX
 Modelo clasificador de  machine learning  capaz de predecir tendencias del mercado FOREX permitiendo identificar cuando el mercado estará a la alza, baja o estable.Realizado en Python con Jupyter notebook 
 ## Ver proyecto 
